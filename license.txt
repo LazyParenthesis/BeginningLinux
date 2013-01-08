@@ -1,0 +1,6 @@
+*TODO* 
+-	Choose license.
+-	Research Creative Commons.
+
+As of right now, there is no license for this book. I am a programmer, not a writer, so I don't really know much about document licenses. But when I do get around to putting a license for the book, it will be similar to GPL. 
+*This means that you cannot distribute and/or modify this book (yet).*
